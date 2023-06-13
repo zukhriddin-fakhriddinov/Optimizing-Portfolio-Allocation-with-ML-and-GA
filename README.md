@@ -7,3 +7,4 @@
 ## Link to the presentation
 [Canva Presentation](https://www.canva.com/design/DAFkwGu17PQ/wOrhDSe_8AMAHMqK70OinQ/edit?utm_content=DAFkwGu17PQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Link to the paper
+[Paper in Overleaf](https://www.overleaf.com/read/rtfrdhfqjbcj)
